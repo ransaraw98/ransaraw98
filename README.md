@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on almost anything?
 - 📫 How to reach me ransarawijitha@gmail.com
 
-My blog --> ransaraw.me
+My blog --> www.ransaraw.me 
 
 <!---
 ransaraw98/ransaraw98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
